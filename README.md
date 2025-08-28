@@ -1,1 +1,1 @@
-#Completed Project for Building Expense Tracker iOS App with Core Data & SwiftUI
+Completed Project for Building Expense Tracker iOS App with Core Data & SwiftUI
